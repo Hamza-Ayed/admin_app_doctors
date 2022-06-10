@@ -1,0 +1,10 @@
+// String url = 'https://testdevflu.000webhostapp.com/resturant_wafel/';
+// String url = 'https://gooly.cf/resturant_wafel/';
+// String url = 'http://192.168.64.2/resturant_wafel/';
+// String url = 'http://192.168.245.1/doctor/';
+// String url = 'https://facedoctor.000webhostapp.com/doctor/';
+// String url = 'https://hamzaapps.000webhostapp.com/doctor/';
+// String url = 'https://newsfootball.gq/AdminApps/';
+String url = 'https://hamzaapps.000webhostapp.com/AppsAdmin/';
+// String url = 'https://www.myappsadmin.cf/AppsAdmin/';
+// String url = 'http://192.168.64.2/doctor/pharmacy/AppsAdmin/';
